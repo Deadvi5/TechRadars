@@ -66,4 +66,4 @@ Fable,assess,languages & frameworks,FALSO,Fable is a compiler powered by Babel d
 "SonarQube 8.3,adopt,tools,FALSO,""SonarQube is an open source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.""";
 System.Text.Json,adopt,tools,FALSO,Microsoft Serializer/deserializer to work with JSON;
 Vue.js,trial,languages & frameworks,VERO,is a progressive framework for building user interfaces;
-Playwright, assess, Tools, VERO, Functional test done right.;
+Playwright,assess,tools,VERO,Functional test done right.;
