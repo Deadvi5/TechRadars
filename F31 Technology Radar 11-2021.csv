@@ -63,7 +63,7 @@ cypress.io,trial,languages & frameworks,FALSO,Cypress is a next generation front
 Github Enterprise,assess,tools,FALSO,We're evaluating Github enterprise intead of bitbucket as GIT source control;
 Fable,assess,languages & frameworks,FALSO,Fable is a compiler powered by Babel designed to make F# a first-class citizen of the JavaScript ecosystem;
 "k6,assess,languages & frameworks,FALSO,""k6 is a developer-centric, free and open-source load testing tool built for performance testing""";
+"Playwright,trial,languages & frameworks,FALSO,""functional tests done right""";
 "SonarQube 8.3,adopt,tools,FALSO,""SonarQube is an open source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.""";
 System.Text.Json,adopt,tools,FALSO,Microsoft Serializer/deserializer to work with JSON;
 Vue.js,trial,languages & frameworks,VERO,is a progressive framework for building user interfaces;
-Playwright,trial,tools,VERO,functional tests done ritgth;
