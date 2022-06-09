@@ -52,7 +52,7 @@ Git hooks,assess,techniques & processes,FALSE,Git's way to fire off custom scrip
 Nuget packages updates,adopt,tools,FALSE,"Every sprint, we will check for nuget packages update. A tool like Nukeeper wil help us identifing updatable packages "
 .NET Core Health Checks,adopt,languages & frameworks,FALSE,Middleware and libraries for reporting the health of app infrastructure components. It's now used as a treshold in the azure pipeline
 Coverlet,trial,tools,FALSE,Branch test coverage for .NET
-Global payment System,adopt,infrastructure,FALSO,Global payment System as Payment provider
+Global Payment System,adopt,infrastructure,FALSO,Global payment System as Payment provider
 Storytelling + Estimation,adopt,techniques & processes,FALSO,User Stories are presented and explained by BA and the team estimate it
 TechDebts & NFR,adopt,techniques & processes,FALSO,All the new Not Functional Requirements and Tech Debts are discussed and managed by the team during a meeting where we prioritize it
 MVPs,adopt,techniques & processes,FALSO,Corefront is built following the MVPs concept (Minimum Viable Product)
@@ -64,6 +64,11 @@ Fable,assess,languages & frameworks,FALSO,Fable is a compiler powered by Babel d
 k6,assess,languages & frameworks,FALSO,"k6 is a developer-centric, free and open-source load testing tool built for performance testing"
 SonarQube 8.3,adopt,tools,FALSO,"SonarQube is an open source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages."
 System.Text.Json,adopt,tools,FALSO,Microsoft Serializer/deserializer to work with JSON
-Vue.js,trial,languages & frameworks,VERO,is a progressive framework for building user interfaces
-Playwright,trial,tools,VERO,functional tests done rigth
-Checkmarx,trial,tools,VERO,Security checks on code in the pipeline
+Vue.js,trial,languages & frameworks,FALSO,is a progressive framework for building user interfaces
+Playwright,trial,tools,FALSO,functional tests done rigth
+Checkmarx,trial,tools,FALSO,Security checks on code in the pipeline
+BDD,adopt,techniques & processes,VERO,"is an agile software development process that encourages collaboration among developers, quality assurance testers, and customer representatives in a software project."
+SpecFlow,adopt,languages & frameworks,VERO,SpecFlow is a BDD framework for . NET which boosts your productivity by helping you with writing your feature files and automation code using C# and . NET methods.
+Blazor,adopt,languages & frameworks,VERO,Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C# and HTML
+Tailwind,adopt,languages & frameworks,VERO,"A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+IBM MQ,adopt,tools,VERO,IBM MQ provides a universal messaging backbone with robust connectivity for flexible and reliable messaging for applications
