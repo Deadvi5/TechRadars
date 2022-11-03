@@ -44,25 +44,25 @@ Jira,adopt,tools,FALSE,Jira is a proprietary issue tracking product developed by
 Confluence,adopt,tools,FALSE,Confluence is a collaboration software program developed and published by Australian software company Atlassian.
 Jenkins,adopt,tools,FALSE,"Jenkins is an open source automation server written in Java. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery."
 Stalkinator,adopt,tools,FALSE,"Use site instances hosted on others' PC. It helps QAs with tests, they can use already setup enviroments"
-Azure Pipeline,trial,tools,FALSO,CICD part of azure will be used instead of Jenkins for Corefront
-Azure Application Insight,trial,tools,FALSE,Azure Application Insight is an extensible Application Performance Management (APM) service for web developers
+Azure Pipeline,adopt,tools,FALSO,CICD part of azure will be used instead of Jenkins for Corefront
+Azure Application Insight,adopt,tools,FALSE,Azure Application Insight is an extensible Application Performance Management (APM) service for web developers
 Weekly release,adopt,techniques & processes,FALSE,"During the 3-week sprint, we're releasing every week (so 3 smaller release every sprint instead of a big 1)"
 Nuget packages updates,adopt,tools,FALSE,"Every sprint, we will check for nuget packages update. A tool like Nukeeper wil help us identifing updatable packages "
 .NET Core Health Checks,adopt,languages & frameworks,FALSE,Middleware and libraries for reporting the health of app infrastructure components. It's now used as a treshold in the azure pipeline
-Coverlet,trial,tools,FALSE,Branch test coverage for .NET
+Coverlet,adopt,tools,FALSE,Branch test coverage for .NET
 Global payment System,adopt,infrastructure,FALSO,Global payment System as Payment provider
 Storytelling + Estimation,adopt,techniques & processes,FALSO,User Stories are presented and explained by BA and the team estimate it
 TechDebts & NFR,adopt,techniques & processes,FALSO,All the new Not Functional Requirements and Tech Debts are discussed and managed by the team during a meeting where we prioritize it
 MVPs,adopt,techniques & processes,FALSO,Corefront is built following the MVPs concept (Minimum Viable Product)
-Docker,trial,tools,FALSO,"To avoid network problem with dependencies like mongoDb, Redis etc... now we use a local docker with all the things we need to run a F31 site locally"
-cypress.io,trial,languages & frameworks,FALSO,Cypress is a next generation front end testing tool built for the modern web
-.NET Framework 4.8,trial,languages & frameworks,FALSO,"Updated version of .net framework (from 4.5 to 4.7.2) for microsoft support, performance improvement and issues fix "
+Docker,adopt,tools,FALSO,"To avoid network problem with dependencies like mongoDb, Redis etc... now we use a local docker with all the things we need to run a F31 site locally"
+cypress.io,adopt,languages & frameworks,FALSO,Cypress is a next generation front end testing tool built for the modern web
+.NET Framework 4.8,adopt,languages & frameworks,FALSO,"Updated version of .net framework (from 4.5 to 4.7.2) for microsoft support, performance improvement and issues fix "
 k6,adopt,languages & frameworks,FALSO,"k6 is a developer-centric, free and open-source load testing tool built for performance testing"
 SonarQube 8.3,adopt,tools,FALSO,"SonarQube is an open source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages."
 System.Text.Json,adopt,tools,FALSO,Microsoft Serializer/deserializer to work with JSON
 Vue.js,trial,languages & frameworks,FALSO,is a progressive framework for building user interfaces
 Playwright,trial,tools,FALSO,functional tests done rigth
-Checkmarx,trial,tools,FALSO," ""Security checks on code in the pipeline"""
+Checkmarx,adopt,tools,FALSO," ""Security checks on code in the pipeline"""
 Stryker,trial,tools,VERO,"Mutation testing "
 BDD,adopt,techniques & processes,VERO,Behaviour driven development to improve workflow
 Specflow,adopt,languages & frameworks,VERO,BDD Framework for .NET
