@@ -71,3 +71,4 @@ NLog,adopt,languages & frameworks,VERO,Logging framework
 AWS Lambda,assess,techniques & processes,VERO,Cloud function
 AWS SQS,assess,techniques & processes,VERO,Amazon queue for message processing
 AWS API Gateway,assess,techniques & processes,VERO,"A fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale"
+Terraform,assess,languages & frameworks,VERO,Automate Infrastructure on any cloud
