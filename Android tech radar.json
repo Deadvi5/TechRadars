@@ -1,5 +1,460 @@
 [
   {
+    "name": "app.cash.turbine:turbine",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library app.cash.turbine:turbine used for Android development."
+  },
+  {
+    "name": "com.adevinta.android:barista",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.adevinta.android:barista used for Android development."
+  },
+  {
+    "name": "com.adjust.sdk:adjust-android",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.adjust.sdk:adjust-android used for Android development."
+  },
+  {
+    "name": "com.adyen.checkout:3ds2",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.adyen.checkout:3ds2 used for Android development."
+  },
+  {
+    "name": "com.braintreepayments.api:paypal-data-collector",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.braintreepayments.api:paypal-data-collector used for Android development."
+  },
+  {
+    "name": "com.github.Mindera:gradle-slack-plugin",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.github.Mindera:gradle-slack-plugin used for Android development."
+  },
+  {
+    "name": "com.github.bumptech.glide:compiler",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.github.bumptech.glide:compiler used for Android development."
+  },
+  {
+    "name": "com.github.bumptech.glide:glide",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.github.bumptech.glide:glide used for Android development."
+  },
+  {
+    "name": "com.github.chrisbanes:PhotoView",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.github.chrisbanes:PhotoView used for Android development."
+  },
+  {
+    "name": "com.google.code.gson:gson",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.code.gson:gson used for Android development."
+  },
+  {
+    "name": "com.google.dagger:hilt-android",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.dagger:hilt-android used for Android development."
+  },
+  {
+    "name": "com.google.dagger:hilt-android-compiler",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.dagger:hilt-android-compiler used for Android development."
+  },
+  {
+    "name": "com.google.dagger:hilt-android-gradle-plugin",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.dagger:hilt-android-gradle-plugin used for Android development."
+  },
+  {
+    "name": "com.google.dagger:hilt-android-testing",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.dagger:hilt-android-testing used for Android development."
+  },
+  {
+    "name": "com.google.firebase:firebase-analytics-ktx",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:firebase-analytics-ktx used for Android development."
+  },
+  {
+    "name": "com.google.firebase:firebase-appdistribution-gradle",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:firebase-appdistribution-gradle used for Android development."
+  },
+  {
+    "name": "com.google.firebase:firebase-bom",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:firebase-bom used for Android development."
+  },
+  {
+    "name": "com.google.firebase:firebase-config",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:firebase-config used for Android development."
+  },
+  {
+    "name": "com.google.firebase:firebase-crashlytics",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:firebase-crashlytics used for Android development."
+  },
+  {
+    "name": "com.google.firebase:firebase-crashlytics-gradle",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:firebase-crashlytics-gradle used for Android development."
+  },
+  {
+    "name": "com.google.firebase:firebase-dynamic-links",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:firebase-dynamic-links used for Android development."
+  },
+  {
+    "name": "com.google.firebase:firebase-messaging",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:firebase-messaging used for Android development."
+  },
+  {
+    "name": "com.google.firebase:firebase-perf",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:firebase-perf used for Android development."
+  },
+  {
+    "name": "com.google.firebase:perf-plugin",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.firebase:perf-plugin used for Android development."
+  },
+  {
+    "name": "com.google.gms:google-services",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.gms:google-services used for Android development."
+  },
+  {
+    "name": "com.google.truth:truth",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.google.truth:truth used for Android development."
+  },
+  {
+    "name": "com.mikepenz.aboutlibraries.plugin:aboutlibraries-plugin",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.mikepenz.aboutlibraries.plugin:aboutlibraries-plugin used for Android development."
+  },
+  {
+    "name": "com.mikepenz:aboutlibraries",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.mikepenz:aboutlibraries used for Android development."
+  },
+  {
+    "name": "com.mikepenz:aboutlibraries-core",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.mikepenz:aboutlibraries-core used for Android development."
+  },
+  {
+    "name": "com.optimizely.ab:android-sdk",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.optimizely.ab:android-sdk used for Android development."
+  },
+  {
+    "name": "com.qualtrics:digital",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.qualtrics:digital used for Android development."
+  },
+  {
+    "name": "com.riskified:android-sdk",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.riskified:android-sdk used for Android development."
+  },
+  {
+    "name": "com.squareup.leakcanary:leakcanary-android",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.squareup.leakcanary:leakcanary-android used for Android development."
+  },
+  {
+    "name": "com.squareup.okhttp3:mockwebserver",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.squareup.okhttp3:mockwebserver used for Android development."
+  },
+  {
+    "name": "com.squareup.okhttp3:okhttp",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.squareup.okhttp3:okhttp used for Android development."
+  },
+  {
+    "name": "com.squareup.retrofit2:converter-gson",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.squareup.retrofit2:converter-gson used for Android development."
+  },
+  {
+    "name": "com.swrve.sdk.android:swrve-firebase",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.swrve.sdk.android:swrve-firebase used for Android development."
+  },
+  {
+    "name": "commons-io:commons-io",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library commons-io:commons-io used for Android development."
+  },
+  {
+    "name": "gradle.plugin.com.github.jengelman.gradle.plugins:shadow",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library gradle.plugin.com.github.jengelman.gradle.plugins:shadow used for Android development."
+  },
+  {
+    "name": "io.fabric.sdk.android:fabric",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library io.fabric.sdk.android:fabric used for Android development."
+  },
+  {
+    "name": "io.mockk:mockk",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library io.mockk:mockk used for Android development."
+  },
+  {
+    "name": "io.mockk:mockk-android",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library io.mockk:mockk-android used for Android development."
+  },
+  {
+    "name": "joda-time:joda-time",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library joda-time:joda-time used for Android development."
+  },
+  {
+    "name": "junit:junit",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library junit:junit used for Android development."
+  },
+  {
+    "name": "org.apache.commons:commons-text",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library org.apache.commons:commons-text used for Android development."
+  },
+  {
+    "name": "org.robolectric:robolectric",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library org.robolectric:robolectric used for Android development."
+  },
+  {
+    "name": "com.ynap.android:legacycore",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.ynap.android:legacycore used for Android development."
+  },
+  {
+    "name": "com.ynap.android:configuration",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.ynap.android:configuration used for Android development."
+  },
+  {
+    "name": "com.ynap.android:core",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.ynap.android:core used for Android development."
+  },
+  {
+    "name": "com.ynap.android:delivery",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.ynap.android:delivery used for Android development."
+  },
+  {
+    "name": "com.ynap.android:fitanalytics",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.ynap.android:fitanalytics used for Android development."
+  },
+  {
+    "name": "com.ynap.android:gallery",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.ynap.android:gallery used for Android development."
+  },
+  {
+    "name": "com.ynap.android:tracking-consents",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.ynap.android:tracking-consents used for Android development."
+  },
+  {
+    "name": "com.ynap.android:libraries",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.ynap.android:libraries used for Android development."
+  },
+  {
+    "name": "com.github.chuckerteam.chucker:library",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.github.chuckerteam.chucker:library used for Android development."
+  },
+  {
+    "name": "com.github.chuckerteam.chucker:library-no-op",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library com.github.chuckerteam.chucker:library-no-op used for Android development."
+  },
+  {
+    "name": "io.coil-kt:coil",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library io.coil-kt:coil used for Android development."
+  },
+  {
+    "name": "io.coil-kt:coil-compose",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library io.coil-kt:coil-compose used for Android development."
+  },
+  {
+    "name": "androidx.compose:compose-bom",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "A BOM (Bill of Materials) for managing Compose library versions in a consistent way."
+  },
+  {
+    "name": "androidx.compose.ui:ui-text-google-fonts",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Support for using Google Fonts in Jetpack Compose UI text components."
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-runtime-compose",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Integration between Jetpack Compose and AndroidX Lifecycle, enabling lifecycle-aware components in Compose."
+  },
+  {
+    "name": "androidx.compose.material3:material3",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Material Design 3 components for Jetpack Compose, providing UI elements that follow the latest Material Design guidelines."
+  },
+  {
+    "name": "androidx.compose.ui:ui-tooling-preview",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Provides preview support for Jetpack Compose UIs, allowing developers to see a live preview of their UI components."
+  },
+  {
+    "name": "androidx.glance:glance-material3",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Material Design 3 components for Glance, a framework for building app widgets with Jetpack Compose."
+  },
+  {
+    "name": "androidx.glance:glance-appwidget",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "A Jetpack Compose-based framework for building app widgets with Glance, providing a more modern API for widgets."
+  },
+  {
     "name": "androidx.activity:activity-ktx",
     "ring": "adopt",
     "quadrant": "tools",
@@ -250,586 +705,5 @@
     "quadrant": "tools",
     "isNew": "FALSE",
     "description": "Kotlin extensions for the WorkManager library, facilitating background task management."
-  },
-  {
-    "name": "app.cash.turbine:turbine",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A small testing library for Kotlin Flows, providing a simple API for asserting emissions."
-  },
-  {
-    "name": "com.adevinta.android:barista",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "An Android library to make UI testing simpler by providing a fluent API over Espresso."
-  },
-  {
-    "name": "com.adjust.sdk:adjust-android",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A mobile app tracking and marketing analytics library for Android."
-  },
-  {
-    "name": "com.adyen.checkout:3ds2",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Provides 3D Secure 2 authentication for payments using Adyen."
-  },
-  {
-    "name": "com.android.installreferrer:installreferrer",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Handles installation referrer data for tracking marketing campaigns."
-  },
-  {
-    "name": "com.android.tools.build:gradle",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "The official Gradle plugin for building Android applications."
-  },
-  {
-    "name": "com.braintreepayments.api:paypal-data-collector",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Collects PayPal-related data for fraud management in mobile applications."
-  },
-  {
-    "name": "com.github.Mindera:gradle-slack-plugin",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A Gradle plugin for integrating Slack notifications in build processes."
-  },
-  {
-    "name": "com.github.bumptech.glide:compiler",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Annotation processor for Glide, an image loading and caching library."
-  },
-  {
-    "name": "com.github.bumptech.glide:glide",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "An efficient open-source media management and image loading framework for Android."
-  },
-  {
-    "name": "com.github.chrisbanes:PhotoView",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A library providing zoomable ImageView with pinch-to-zoom functionality."
-  },
-  {
-    "name": "com.google.android.exoplayer:exoplayer",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A powerful media player library for Android, supporting advanced streaming and media playback features."
-  },
-  {
-    "name": "com.google.android.gms:play-services-base",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Provides base APIs for Google Play services integration."
-  },
-  {
-    "name": "com.google.android.gms:play-services-basement",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Core low-level libraries for Google Play services."
-  },
-  {
-    "name": "com.google.android.gms:play-services-tagmanager",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Google Tag Manager integration for Android apps."
-  },
-  {
-    "name": "com.google.android.material:material",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "The official Material Design components for Android, providing a consistent UI/UX."
-  },
-  {
-    "name": "com.google.android.play:app-update",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Supports in-app updates to keep apps up-to-date without leaving the app."
-  },
-  {
-    "name": "com.google.android.play:app-update-ktx",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Kotlin extensions for the in-app updates API, simplifying the process in Kotlin-based Android apps."
-  },
-  {
-    "name": "com.google.android.play:review",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Facilitates in-app review prompts to users, encouraging them to rate the app on the Play Store."
-  },
-  {
-    "name": "com.google.android.play:review-ktx",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Kotlin extensions for the in-app review API, making it easier to prompt users to rate the app."
-  },
-  {
-    "name": "com.google.code.gson:gson",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A Java library that converts Java Objects into JSON and vice versa, often used in Android apps for data serialization."
-  },
-  {
-    "name": "com.google.dagger:hilt-android",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A dependency injection library for Android that reduces the boilerplate of using Dagger in Android apps."
-  },
-  {
-    "name": "com.google.dagger:hilt-android-compiler",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Annotation processor for Hilt, responsible for generating the necessary code to perform dependency injection."
-  },
-  {
-    "name": "com.google.dagger:hilt-android-gradle-plugin",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Gradle plugin for integrating Hilt dependency injection into Android projects."
-  },
-  {
-    "name": "com.google.dagger:hilt-android-testing",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Provides testing utilities for Android apps using Hilt for dependency injection."
-  },
-  {
-    "name": "com.google.firebase:firebase-analytics-ktx",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Kotlin extensions for Firebase Analytics, enabling more idiomatic use of Firebase in Kotlin-based Android apps."
-  },
-  {
-    "name": "com.google.firebase:firebase-appdistribution-gradle",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Gradle plugin that automates the distribution of Android apps to testers using Firebase App Distribution."
-  },
-  {
-    "name": "com.google.firebase:firebase-bom",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "The Firebase Bill of Materials (BoM) simplifies the management of Firebase dependencies in Android projects."
-  },
-  {
-    "name": "com.google.firebase:firebase-config",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A library that allows you to remotely configure your app's behavior and appearance without requiring users to download an update."
-  },
-  {
-    "name": "com.google.firebase:firebase-crashlytics",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A robust, real-time crash reporting tool for Android apps, integrated with Firebase."
-  },
-  {
-    "name": "com.google.firebase:firebase-crashlytics-gradle",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Gradle plugin that integrates Firebase Crashlytics into Android build processes, enabling crash reporting."
-  },
-  {
-    "name": "com.google.firebase:firebase-dynamic-links",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Enables the creation of dynamic links that survive the app install process and can link to specific content within your app."
-  },
-  {
-    "name": "com.google.firebase:firebase-messaging",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Enables sending notifications and messages to Android devices via Firebase Cloud Messaging."
-  },
-  {
-    "name": "com.google.firebase:firebase-perf",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A library for monitoring the performance of your Android apps, including network and resource usage."
-  },
-  {
-    "name": "com.google.firebase:perf-plugin",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Gradle plugin for integrating Firebase Performance Monitoring into your Android app."
-  },
-  {
-    "name": "com.google.gms:google-services",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A Gradle plugin that simplifies the configuration of Google services in Android projects."
-  },
-  {
-    "name": "com.google.truth:truth",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A fluent assertion library for Java and Android tests, making test assertions more readable."
-  },
-  {
-    "name": "com.mikepenz.aboutlibraries.plugin:aboutlibraries-plugin",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A Gradle plugin that generates a list of libraries used in the Android app, typically for inclusion in an 'About' screen."
-  },
-  {
-    "name": "com.mikepenz:aboutlibraries",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A library that helps manage and display the licenses of open-source libraries used in your Android app."
-  },
-  {
-    "name": "com.mikepenz:aboutlibraries-core",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Core library for AboutLibraries, focused on providing the data for the open-source licenses used in the app."
-  },
-  {
-    "name": "com.optimizely.ab:android-sdk",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "An A/B testing and feature management library for Android, allowing experimentation and feature toggling."
-  },
-  {
-    "name": "com.qualtrics:digital",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Qualtrics SDK for Android, enabling the integration of Qualtrics surveys and feedback mechanisms into your app."
-  },
-  {
-    "name": "com.riskified:android-sdk",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Riskified SDK for Android, used for fraud prevention and chargeback protection in e-commerce applications."
-  },
-  {
-    "name": "com.squareup.leakcanary:leakcanary-android",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A memory leak detection library for Android, making it easier to identify and fix memory leaks in your app."
-  },
-  {
-    "name": "com.squareup.okhttp3:mockwebserver",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A library that enables HTTP mocking for testing purposes, particularly useful with OkHttp."
-  },
-  {
-    "name": "com.squareup.okhttp3:okhttp",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "An efficient HTTP client for Android and Java applications, widely used for handling network requests."
-  },
-  {
-    "name": "com.squareup.retrofit2:converter-gson",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A Retrofit converter that uses Gson for JSON serialization and deserialization of HTTP responses."
-  },
-  {
-    "name": "com.swrve.sdk.android:swrve-firebase",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "An SDK that integrates Swrve's mobile marketing automation with Firebase for Android."
-  },
-  {
-    "name": "commons-io:commons-io",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A library of utilities to assist with developing IO functionality, such as working with files and streams."
-  },
-  {
-    "name": "de.fayard.buildSrcLibs:de.fayard.buildSrcLibs.gradle.plugin",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A Gradle plugin to manage dependencies in a Kotlin-friendly way."
-  },
-  {
-    "name": "gradle.plugin.com.github.jengelman.gradle.plugins:shadow",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A Gradle plugin for creating fat/uber JARs with all dependencies included."
-  },
-  {
-    "name": "io.fabric.sdk.android:fabric",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A mobile development platform used for tracking crashes, distributing betas, and measuring user activity."
-  },
-  {
-    "name": "io.mockk:mockk",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A mocking library for Kotlin, providing a clean and simple API for writing tests."
-  },
-  {
-    "name": "io.mockk:mockk-android",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Android-specific extensions for the MockK library, facilitating mocking in Android tests."
-  },
-  {
-    "name": "joda-time:joda-time",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A comprehensive replacement for the Java date and time classes, widely used before Java 8."
-  },
-  {
-    "name": "junit:junit",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "The popular Java unit testing framework, foundational for writing tests in Android and Java projects."
-  },
-  {
-    "name": "org.apache.commons:commons-text",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A library focused on algorithms working on strings, such as escaping, substituting, and calculating string differences."
-  },
-  {
-    "name": "org.jetbrains.kotlin:kotlin-allopen",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A Kotlin compiler plugin that automatically makes classes and methods open for subclassing or overriding."
-  },
-  {
-    "name": "org.jetbrains.kotlin:kotlin-annotation-processing-gradle",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Gradle plugin for supporting annotation processing in Kotlin projects."
-  },
-  {
-    "name": "org.jetbrains.kotlin:kotlin-gradle-plugin",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "The official Gradle plugin for building Kotlin projects."
-  },
-  {
-    "name": "org.jetbrains.kotlin:kotlin-parcelize-compiler",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Annotation processor for Kotlin's Parcelize feature, simplifying Android parcelable implementations."
-  },
-  {
-    "name": "org.jetbrains.kotlin:kotlin-parcelize-runtime",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Runtime components needed to support the Kotlin Parcelize feature in Android apps."
-  },
-  {
-    "name": "org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Embeddable scripting compiler for Kotlin, enabling dynamic code execution."
-  },
-  {
-    "name": "org.jetbrains.kotlin:kotlin-stdlib",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "The standard library for Kotlin, providing essential classes and utilities for Kotlin development."
-  },
-  {
-    "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk7",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Kotlin standard library extensions for JDK 7, adding useful functions for Android development."
-  },
-  {
-    "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk8",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Kotlin standard library extensions for JDK 8, bringing more modern features to Android development."
-  },
-  {
-    "name": "org.jetbrains.kotlinx:kotlinx-coroutines-android",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Kotlin coroutines support for Android, providing main-safe suspending functions and more."
-  },
-  {
-    "name": "org.jetbrains.kotlinx:kotlinx-coroutines-core",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Core library for Kotlin coroutines, offering asynchronous programming capabilities for Kotlin projects."
-  },
-  {
-    "name": "org.jetbrains.kotlinx:kotlinx-coroutines-test",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Testing support for Kotlin coroutines, enabling structured concurrency in test environments."
-  },
-  {
-    "name": "org.robolectric:robolectric",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A framework for running Android tests in the JVM without the need for an emulator or device."
-  },
-  {
-    "name": "androidx.credentials:credentials-play-services-auth",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Credential management API for Android apps, integrated with Google Play services."
-  },
-  {
-    "name": "androidx.credentials:credentials",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Credential management API for Android apps, facilitating secure user authentication."
-  },
-  {
-    "name": "com.github.chuckerteam.chucker:library",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A debug tool for inspecting HTTP requests and responses, providing a UI to see data inside your Android app."
-  },
-  {
-    "name": "com.github.chuckerteam.chucker:library-no-op",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A no-op version of Chucker for release builds, ensuring no impact on performance in production."
-  },
-  {
-    "name": "androidx.compose:compose-bom",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A BOM (Bill of Materials) for managing Compose library versions in a consistent way."
-  },
-  {
-    "name": "androidx.compose.ui:ui-text-google-fonts",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Support for using Google Fonts in Jetpack Compose UI text components."
-  },
-  {
-    "name": "androidx.lifecycle:lifecycle-runtime-compose",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Integration between Jetpack Compose and AndroidX Lifecycle, enabling lifecycle-aware components in Compose."
-  },
-  {
-    "name": "androidx.compose.material3:material3",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Material Design 3 components for Jetpack Compose, providing UI elements that follow the latest Material Design guidelines."
-  },
-  {
-    "name": "androidx.compose.ui:ui-tooling-preview",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Provides preview support for Jetpack Compose UIs, allowing developers to see a live preview of their UI components."
-  },
-  {
-    "name": "androidx.glance:glance-material3",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Material Design 3 components for Glance, a framework for building app widgets with Jetpack Compose."
-  },
-  {
-    "name": "androidx.glance:glance-appwidget",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "A Jetpack Compose-based framework for building app widgets with Glance, providing a more modern API for widgets."
-  },
-  {
-    "name": "io.coil-kt:coil",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "An image loading library for Android backed by Kotlin Coroutines."
-  },
-  {
-    "name": "io.coil-kt:coil-compose",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Integration of Coil with Jetpack Compose, allowing for efficient image loading in Compose UIs."
   }
 ]
