@@ -1,30 +1,135 @@
 [
   {
-    "name": "Composer",
+    "name": "adyen-ios",
     "ring": "adopt",
     "quadrant": "tools",
-    "isNew": "TRUE",
-    "description": "Although the idea of dependency management ..."
-  },
-  {
-    "name": "Canary builds",
-    "ring": "trial",
-    "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "Many projects have external code dependencies ..."
+    "description": "Library adyen-ios used for payment processing in iOS applications."
   },
   {
-    "name": "Apache Kylin",
-    "ring": "assess",
-    "quadrant": "platforms",
-    "isNew": "TRUE",
-    "description": "Apache Kylin is an open source analytics solution ..."
-  },
-  {
-    "name": "JSF",
-    "ring": "hold",
-    "quadrant": "languages & frameworks",
+    "name": "riskified_ios_sdk",
+    "ring": "adopt",
+    "quadrant": "tools",
     "isNew": "FALSE",
-    "description": "We continue to see teams run into trouble using JSF ..."
+    "description": "Library riskified_ios_sdk used for fraud prevention in iOS applications."
+  },
+  {
+    "name": "YNSDK-iOS-Tracking-Consents",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library YNSDK-iOS-Tracking-Consents used for tracking consent management in iOS applications."
+  },
+  {
+    "name": "GDPR-iOS",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library GDPR-iOS used for GDPR compliance in iOS applications."
+  },
+  {
+    "name": "YNCaptcha-iOS",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library YNCaptcha-iOS used for captcha validation in iOS applications."
+  },
+  {
+    "name": "firebase-ios-sdk",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library firebase-ios-sdk used for Firebase services in iOS applications."
+  },
+  {
+    "name": "YNFeatureToggle-iOS",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library YNFeatureToggle-iOS used for feature toggles in iOS applications."
+  },
+  {
+    "name": "swrve-ios-sdk",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library swrve-ios-sdk used for in-app marketing and messaging in iOS applications."
+  },
+  {
+    "name": "YNUnitTests-iOS",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library YNUnitTests-iOS used for unit testing in iOS applications."
+  },
+  {
+    "name": "ios_sdk",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library ios_sdk used for mobile analytics in iOS applications."
+  },
+  {
+    "name": "qualtrics-digital-ios-sdk",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library qualtrics-digital-ios-sdk used for survey and feedback collection in iOS applications."
+  },
+  {
+    "name": "lottie-ios",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library lottie-ios used for animations in iOS applications."
+  },
+  {
+    "name": "CryptoSwift",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library CryptoSwift used for cryptographic functions in iOS applications."
+  },
+  {
+    "name": "A11yUITests",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library A11yUITests used for accessibility UI testing in iOS applications."
+  },
+  {
+    "name": "YNForms-iOS",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library YNForms-iOS used for dynamic forms in iOS applications."
+  },
+  {
+    "name": "swift-snapshot-testing",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library swift-snapshot-testing used for UI snapshot testing in iOS applications."
+  },
+  {
+    "name": "netfox",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library netfox used for network debugging in iOS applications."
+  },
+  {
+    "name": "swift-collections",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library swift-collections used for data structure collections in iOS applications."
+  },
+  {
+    "name": "google-tag-manager-ios-sdk",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Library google-tag-manager-ios-sdk used for tag management in iOS applications."
   }
 ]
